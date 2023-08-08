@@ -21,7 +21,7 @@ var wms_layers = [];
             
             source: new ol.source.XYZ({
     attributions: ' ',
-                url: 'file:///C:/Users/eduardo.zampronio/Desktop/Teste/FSJ/Tiles/{z}/{x}/{-y}.png'
+                url: './Tiles/{z}/{x}/{-y}.png'
             })
         });
 var format_AAGR_2 = new ol.format.GeoJSON();

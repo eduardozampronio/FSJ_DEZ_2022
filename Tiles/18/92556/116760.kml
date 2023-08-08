@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>18/92556/116760.kml</name>
+    <description></description>
+    <Style>
+      <ListStyle id="hideChildren">
+        <listItemType>checkHideChildren</listItemType>
+      </ListStyle>
+    </Style>
+    <Region>
+      <LatLonAltBox>
+        <north>-19.27873951970703</north>
+        <south>-19.28003579627973</south>
+        <east>-52.89230346679688</east>
+        <west>-52.89367675781251</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>128</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <GroundOverlay>
+      <drawOrder>36</drawOrder>
+      <Icon>
+        <href>116760.png</href>
+      </Icon>
+      <LatLonBox>
+        <north>-19.27873951970703</north>
+        <south>-19.28003579627973</south>
+        <east>-52.89230346679688</east>
+        <west>-52.89367675781251</west>
+      </LatLonBox>
+    </GroundOverlay>
+      </Document>
+</kml>
+    
